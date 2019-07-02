@@ -1,0 +1,22 @@
+<script>
+
+logicObject = {
+    2:null,
+    4:'Linio',
+    6:'IT',
+    8:'Linianos',
+}
+for(let i = 1; i <= 100; i++){
+    let m3 = i % 3 !== 0 || 3;
+    let m5 = i % 5 !== 0 || 5;
+    //Since a true value for a boolean is = 1 then we can do some math to figure out the logic
+    //When m3 0r m5 is not a multiple of 3 it has the value of 1
+    //The sum of m3 and m5 gives us the right combination based of if either of them is  
+    //a multiple of their respective numbers
+    let m35 = m3 + m5;
+    logicObject[m35] && console.log(logicObject[m35])
+    //I chose not to use the if statement since essentially it is not necessary here.
+    logicObject[m35] && document.write('<br>')
+    logicObject[m35] && document.write(logicObject[m35])
+}
+</script>
