@@ -1,5 +1,5 @@
 # oneIfStatement
-##There is an example in JS and PHP
+##There is an example in JS(in the html file) and PHP
 
 ##How to run 
 
