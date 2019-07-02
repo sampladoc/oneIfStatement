@@ -7,4 +7,9 @@ multiples of 3, instead of the number, print "Linio". For multiples of 5 print
 But here's the catch: you can use only one `if`. No multiple branches, ternary
 operators or `else`.
 
-There is an example in JS and PHP
+##There is an example in JS and PHP
+
+##How to run 
+
+1. Download and upload into a functioning with php installed.
+2. Navigate to file location in browser for both the javascript and php exmaples to see results.
