@@ -12,7 +12,7 @@ for($i = 1; $i <= 100; $i++){
     //The sum of the values in the array gives us the logical that is then matched with the results array
     if($resultsArray[array_sum($logicArray)] !== NULL){
         echo('<br>');
-        echo $resultsArray[array_sum($logicArray)];
+        echo "[$i] = ".$resultsArray[array_sum($logicArray)];
     }
    
 }
