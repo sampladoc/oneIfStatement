@@ -3,7 +3,7 @@
 
 ##How to run 
 
-1. Download and upload into a functioning with php installed.
+1. Download and upload into a functioning server with php installed.
 2. Navigate to file location in browser for both the javascript and php exmaples to see results.
 
 ##Explanation of test
