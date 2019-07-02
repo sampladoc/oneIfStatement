@@ -1,7 +1,7 @@
 # oneIfStatement
 ##There is an example in JS(in the html file) and PHP
 
-##How to run 
+##How to run and test
 
 1. Download and upload into a functioning server with php installed.
 2. Navigate to file location in browser for both the javascript and php exmaples to see results.
