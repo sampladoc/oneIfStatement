@@ -1,12 +1,12 @@
 # oneIfStatement
-##There is an example in JS(in the html file) and PHP
+## There is an example in JS(in the html file) and PHP
 
-##How to run and test
+## How to run and test
 
 1. Download and upload into a functioning server with php installed.
 2. Navigate to file location in browser for both the javascript and php exmaples to see results.
 
-##Explanation of test
+## Explanation of test
 
 A program that prints all the numbers from 1 to 100. However, for
 multiples of 3, instead of the number, print "Linio". For multiples of 5 print
